@@ -6,8 +6,8 @@ Key Skills Demonstrated:
 
 Social media data scraping and preprocessing
 Sentiment analysis using NLP techniques
-Data visualization with Python (matplotlib, seaborn)
+Data visualization with Python 
 Interpretation of sentiment trends and insights
 This project showcases my proficiency in data analysis and visualization, offering valuable insights into consumer sentiment for informed business strategies.
 
-Feel free to connect for more details or to discuss similar projects!
+
